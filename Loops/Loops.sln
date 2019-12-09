@@ -15,15 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divide Without Remainder", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salary", "Salary\Salary.csproj", "{D2C4840D-706F-4C41-82A4-8543C716EF76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{6CD55B0B-E96F-4536-8334-264418B7FC4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{6CD55B0B-E96F-4536-8334-264418B7FC4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Combinations", "03. Combinations\03. Combinations.csproj", "{A6621B1E-AE5B-46D9-A811-4969E4E69DE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Combinations", "03. Combinations\03. Combinations.csproj", "{A6621B1E-AE5B-46D9-A811-4969E4E69DE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Two Numbers", "04. Sum of Two Numbers\04. Sum of Two Numbers.csproj", "{CD6BAEA7-9CC1-40FE-8233-D2A239485B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum of Two Numbers", "04. Sum of Two Numbers\04. Sum of Two Numbers.csproj", "{CD6BAEA7-9CC1-40FE-8233-D2A239485B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Travelling", "05. Travelling\05. Travelling.csproj", "{063BAC21-7731-4CC9-9B43-2827A14FBC92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Travelling", "05. Travelling\05. Travelling.csproj", "{063BAC21-7731-4CC9-9B43-2827A14FBC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Name Wars", "06. Name Wars\06. Name Wars.csproj", "{22037032-A481-43E6-BE6A-8FBCFCEB1966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Name Wars", "06. Name Wars\06. Name Wars.csproj", "{22037032-A481-43E6-BE6A-8FBCFCEB1966}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Building", "07. Building\07. Building.csproj", "{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Tickets", "Cinema Tickets\Cinema Tickets.csproj", "{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{22037032-A481-43E6-BE6A-8FBCFCEB1966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22037032-A481-43E6-BE6A-8FBCFCEB1966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22037032-A481-43E6-BE6A-8FBCFCEB1966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
