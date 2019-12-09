@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Building", "07. Buildin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Tickets", "Cinema Tickets\Cinema Tickets.csproj", "{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Number Pyramid\Number Pyramid.csproj", "{880970F1-567B-454F-B481-D8DBC5EB2B83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880970F1-567B-454F-B481-D8DBC5EB2B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880970F1-567B-454F-B481-D8DBC5EB2B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880970F1-567B-454F-B481-D8DBC5EB2B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880970F1-567B-454F-B481-D8DBC5EB2B83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
