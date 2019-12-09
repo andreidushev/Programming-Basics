@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Number Py
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding", "Coding\Coding.csproj", "{49CCCDA1-F49A-4488-B126-DDA30810E6A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{49CCCDA1-F49A-4488-B126-DDA30810E6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49CCCDA1-F49A-4488-B126-DDA30810E6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49CCCDA1-F49A-4488-B126-DDA30810E6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
