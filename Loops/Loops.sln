@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding", "Coding\Coding.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Prime Non Prime", "Sum Prime Non Prime\Sum Prime Non Prime.csproj", "{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
