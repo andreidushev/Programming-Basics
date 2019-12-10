@@ -27,15 +27,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Name Wars", "06. Name W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Building", "07. Building\07. Building.csproj", "{6F8FB204-87D0-46C1-A9E2-671BD1BCF5E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Tickets", "Cinema Tickets\Cinema Tickets.csproj", "{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema Tickets", "Cinema Tickets\Cinema Tickets.csproj", "{F5FE1C78-C42A-4A6C-A565-740F90F2A89C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pyramid", "Number Pyramid\Number Pyramid.csproj", "{880970F1-567B-454F-B481-D8DBC5EB2B83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Pyramid", "Number Pyramid\Number Pyramid.csproj", "{880970F1-567B-454F-B481-D8DBC5EB2B83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding", "Coding\Coding.csproj", "{49CCCDA1-F49A-4488-B126-DDA30810E6A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coding", "Coding\Coding.csproj", "{49CCCDA1-F49A-4488-B126-DDA30810E6A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equal Sums Even Odd Position", "Equal Sums Even Odd Position\Equal Sums Even Odd Position.csproj", "{52A6A5E1-42C0-47AF-84B4-7B18F68EBC4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Prime Non Prime", "Sum Prime Non Prime\Sum Prime Non Prime.csproj", "{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Prime Non Prime", "Sum Prime Non Prime\Sum Prime Non Prime.csproj", "{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train The Trainers", "Train The Trainers\Train The Trainers.csproj", "{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A0038CE-CE18-4EA9-9B61-D05FD9E0462C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
