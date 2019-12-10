@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Prime Non Prime", "Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train The Trainers", "Train The Trainers\Train The Trainers.csproj", "{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Generator", "Password Generator\Password Generator.csproj", "{6FE6FB31-B532-49E8-A73D-94F24EAA2EA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A04D24-E9FA-4C92-A57B-2C3C0E2763E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE6FB31-B532-49E8-A73D-94F24EAA2EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE6FB31-B532-49E8-A73D-94F24EAA2EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE6FB31-B532-49E8-A73D-94F24EAA2EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE6FB31-B532-49E8-A73D-94F24EAA2EA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
